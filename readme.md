@@ -1,28 +1,28 @@
-# AlugueFácil - Sistema de Aluguel de Imóveis Online
+# AlugueFácil - Online Property Rental System
 
-O AlugueFácil é o resultado de uma abordagem metodológica sólida durante a disciplina de Metodologia para Desenvolvimento de Sistemas. O projeto visa aprimorar o processo de aluguel e locação de propriedades de maneira eficiente e acessível. Orientado pela Metodologia para Desenvolvimento de Sistemas, o AlugueFácil busca oferecer uma solução abrangente para proprietários e locatários, focando na otimização do gerenciamento de imóveis e na simplificação do processo de busca e locação.
+AlugueFácil is the result of a solid methodological approach during the Methodology for Systems Development discipline. The project aims to improve the process of renting and leasing properties in an efficient and accessible way. Guided by the Systems Development Methodology, AlugueFácil seeks to offer a comprehensive solution for owners and renters, focusing on optimizing property management and simplifying the search and rental process.
 
-### Principais Etapas do Desenvolvimento:
-1. **Análise de Requisitos:** Identificação das necessidades dos usuários, proprietários e locatários, para informar as funcionalidades essenciais do sistema.
+### Main Development Stages:
+1. **Requirements Analysis:** Identification of the needs of users, owners and tenants, to inform the essential functionalities of the system.
 
-2. **Modelagem:** Utilização de técnicas de modelagem para representar visualmente a estrutura do sistema, incluindo entidades, relacionamentos e fluxos de processo.
+2. **Modeling:** Use of modeling techniques to visually represent the structure of the system, including entities, relationships and process flows.
 
-3. **Prototipagem:** Desenvolvimento de protótipos interativos para validar as interfaces do usuário e garantir uma experiência intuitiva.
+3. **Prototyping:** Development of interactive prototypes to validate user interfaces and ensure an intuitive experience.
 
-4. **Testes:** Implementação de testes rigorosos para garantir a funcionalidade e a robustez do sistema em diferentes cenários.
+4. **Testing:** Implementation of rigorous tests to ensure the functionality and robustness of the system in different scenarios.
 
-5. **Implementação:** Desenvolvimento do sistema, seguindo as melhores práticas de codificação e arquitetura de software.
+5. **Implementation:** System development, following best coding and software architecture practices.
 
-6. **Documentação:** Elaboração de documentação detalhada para facilitar a compreensão do sistema, seu funcionamento e a manutenção futura.
+6. **Documentation:** Preparation of detailed documentation to facilitate understanding of the system, its operation and future maintenance.
 
-**Metodologia Utilizada:**
-O projeto AlugueFácil adotou a Metodologia para Desenvolvimento de Sistemas como guia principal, integrando fases de levantamento de requisitos, análise, design, implementação e testes de forma sistemática e coesa.
+**Methodology Used:**
+The AlugueFácil project adopted the Systems Development Methodology as its main guide, integrating phases of requirements gathering, analysis, design, implementation and testing in a systematic and cohesive way.
 
-**Resultados Esperados:**
-Espera-se que o AlugueFácil, desenvolvido com base em uma abordagem metodológica estruturada, proporcione uma solução eficaz e amigável, atendendo às necessidades do mercado de aluguel de imóveis de maneira inovadora e eficiente.
+**Expected results:**
+AlugueFácil, developed based on a structured methodological approach, is expected to provide an effective and user-friendly solution, meeting the needs of the property rental market in an innovative and efficient way.
 
-**Licença:**
-Este projeto é distribuído sob a licença [inserir nome da licença]. Consulte o arquivo LICENSE para obter mais detalhes sobre os termos de uso.
+**License:**
+This project is distributed under the [insert license name] license. Please see the LICENSE file for more details on terms of use.
 
-**Agradecimentos:**
-Agradecemos a todos os envolvidos no processo metodológico durante a disciplina, cujas contribuições foram fundamentais para o sucesso do AlugueFácil.
+**Thanks:**
+We would like to thank everyone involved in the methodological process during the course, whose contributions were fundamental to the success of AlugueFácil.
